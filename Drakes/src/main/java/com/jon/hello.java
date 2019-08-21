@@ -16,7 +16,3 @@ public class hello extends HttpServlet {
 			pw.write("Hello World");
 	}
 }
-
-
-//
-//git clone httpsyourrepository.
